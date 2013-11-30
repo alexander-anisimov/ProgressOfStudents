@@ -1,0 +1,10 @@
+30.11.2013 17:32:15	This log contains information about the import schema operation into project 'ProgressOfStudents' on computer 'ALLNIGHTLONG' by user 'asd24'.
+30.11.2013 17:32:16	Deserializing model
+30.11.2013 17:32:16	Resolving model
+30.11.2013 17:32:17	Visiting imported model for types
+30.11.2013 17:32:17	Scanning project for duplicate elements
+30.11.2013 17:32:17	Finished duplicate element processing
+30.11.2013 17:32:17	Processing extra files
+30.11.2013 17:32:17	Finished importing Data-tier Application file.
+30.11.2013 17:32:17	A summary of the import was saved to the following location: c:\users\asd24\documents\visual studio 2012\Projects\ProgressOfStudents\ProgressOfStudents\Import Schema Logs\ProgressOfStudents_20131130023215.log
+30.11.2013 17:32:18	Click Finish to continue...

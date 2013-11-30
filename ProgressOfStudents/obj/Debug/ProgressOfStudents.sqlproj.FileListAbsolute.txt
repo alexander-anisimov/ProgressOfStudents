@@ -1,0 +1,5 @@
+c:\users\asd24\documents\visual studio 2012\Projects\ProgressOfStudents\ProgressOfStudents\bin\Debug\ProgressOfStudents.dacpac
+c:\users\asd24\documents\visual studio 2012\Projects\ProgressOfStudents\ProgressOfStudents\bin\Debug\ProgressOfStudents.dll
+c:\users\asd24\documents\visual studio 2012\Projects\ProgressOfStudents\ProgressOfStudents\bin\Debug\ProgressOfStudents.pdb
+c:\users\asd24\documents\visual studio 2012\Projects\ProgressOfStudents\ProgressOfStudents\obj\Debug\ProgressOfStudents.dll
+c:\users\asd24\documents\visual studio 2012\Projects\ProgressOfStudents\ProgressOfStudents\obj\Debug\ProgressOfStudents.pdb
