@@ -110,6 +110,10 @@
     <Folder Include="Scripts" />
     <Folder Include="Scripts\Post-deploy" />
     <Folder Include="Scripts\Pre-deploy" />
+    <Folder Include="dbo\Programmability" />
+    <Folder Include="dbo\Programmability\Functions" />
+    <Folder Include="dbo\Programmability\Stored Procedures" />
+    <Folder Include="dbo\Views" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\Student.sql" />
