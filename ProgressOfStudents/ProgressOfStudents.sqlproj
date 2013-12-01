@@ -123,5 +123,10 @@
     <None Include="Scripts\Pre-deploy\Subject.sql" />
     <None Include="Scripts\Pre-deploy\Student.sql" />
     <None Include="Scripts\Pre-deploy\Exam.sql" />
+    <Build Include="dbo\Programmability\Stored Procedures\students_info_by_group_get.sql" />
+    <Build Include="dbo\Programmability\Stored Procedures\students_after_date_get.sql" />
+    <Build Include="dbo\Programmability\Stored Procedures\student_info_by_record_get.sql" />
+    <Build Include="dbo\Programmability\Stored Procedures\students_count_by_subject_get.sql" />
+    <Build Include="dbo\Programmability\Stored Procedures\subjects_info_by_group_get.sql" />
   </ItemGroup>
 </Project>
