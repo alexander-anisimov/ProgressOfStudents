@@ -128,5 +128,10 @@
     <Build Include="dbo\Programmability\Stored Procedures\student_info_by_record_get.sql" />
     <Build Include="dbo\Programmability\Stored Procedures\students_count_by_subject_get.sql" />
     <Build Include="dbo\Programmability\Stored Procedures\subjects_info_by_group_get.sql" />
+    <Build Include="dbo\Programmability\Stored Procedures\dates_with_more_exams_get.sql" />
+    <Build Include="dbo\Programmability\Stored Procedures\subjects_without_exam_get.sql" />
+    <Build Include="dbo\Programmability\Stored Procedures\students_who_pass_all_emax_get.sql" />
+    <Build Include="dbo\Programmability\Stored Procedures\students_who_not_pass_emax_get.sql" />
+    <Build Include="dbo\Programmability\Stored Procedures\subjects_who_have_max_exams.sql" />
   </ItemGroup>
 </Project>
