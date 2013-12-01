@@ -3,5 +3,5 @@
 	[StudentRecord]	INT				NOT NULL, 
 	[Surname]			NVARCHAR(100)	NOT NULL, 
 	[Address]			NVARCHAR(100), 
-	[Group]				NVARCHAR(20) 
+	[Group]				NVARCHAR(20)	NOT NULL
 )
