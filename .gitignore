@@ -1,3 +1,5 @@
+*.dbmdl
+
 /ProgressOfStudents/bin/Debug
 /ProgressOfStudents/obj/Debug
 /ProgressOfStudents.v11.suo
