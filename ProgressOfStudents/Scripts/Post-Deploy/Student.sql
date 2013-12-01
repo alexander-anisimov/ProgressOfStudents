@@ -1009,6 +1009,6 @@ BEGIN TRY
 	-- PRINT 'INSERT INTO dbo.Student completed successfully'
 END TRY
 BEGIN CATCH
-	PRINT @@ERROR
+	PRINT ERROR_MESSAGE()
 	PRINT 'INSERT INTO dbo.Student completed with errors'
 END CATCH
