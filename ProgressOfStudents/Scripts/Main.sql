@@ -9,7 +9,6 @@ Post-Deployment Script Template
                SELECT * FROM [$(TableName)]					
 --------------------------------------------------------------------------------------
 */
-GO
-:r .\Pre-deploy\Subject.sql
-:r .\Pre-deploy\Student.sql
-:r .\Pre-deploy\Exam.sql
+:r .\Post-deploy\Subject.sql
+:r .\Post-deploy\Student.sql
+:r .\Post-deploy\Exam.sql
