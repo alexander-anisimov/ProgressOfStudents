@@ -9,11 +9,19 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApplication1
 {
-	public partial class Form1 : Form
+	public partial class frmMain : Form
 	{
-		public Form1()
+		public frmMain()
 		{
 			InitializeComponent();
+		}
+
+		private void btn_about_Click(object sender, EventArgs e)
+		{
+			//frmMain f = new frmMain();		// создаем
+			Form f = new Form();
+			f.ShowDialog();					// показываем
+			f.Show();							// или так
 		}
 	}
 }

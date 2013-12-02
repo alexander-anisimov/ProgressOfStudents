@@ -6,3 +6,10 @@ c:\users\asd24\documents\visual studio 2012\Projects\WindowsFormsApplication1\Wi
 c:\users\asd24\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProgressOfStudentsForm.pdb
 C:\Users\asd24\GitReps\ProgressOfStudents\WindowsFormsApplication1\obj\Debug\ProgressOfStudentsForm.exe
 C:\Users\asd24\GitReps\ProgressOfStudents\WindowsFormsApplication1\obj\Debug\ProgressOfStudentsForm.pdb
+C:\Users\asd24\GitReps\ProgressOfStudents\WindowsFormsApplication1\bin\Debug\ProgressOfStudentsForm.exe
+C:\Users\asd24\GitReps\ProgressOfStudents\WindowsFormsApplication1\bin\Debug\ProgressOfStudentsForm.pdb
+C:\Users\asd24\GitReps\ProgressOfStudents\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+C:\Users\asd24\GitReps\ProgressOfStudents\WindowsFormsApplication1\obj\Debug\ProgressOfStudents.Properties.Resources.resources
+C:\Users\asd24\GitReps\ProgressOfStudents\WindowsFormsApplication1\obj\Debug\ProgressOfStudentsForm.csproj.GenerateResource.Cache
+C:\Users\asd24\GitReps\ProgressOfStudents\WindowsFormsApplication1\bin\Debug\ProgressOfStudentsForm.exe.config
+C:\Users\asd24\GitReps\ProgressOfStudents\WindowsFormsApplication1\obj\Debug\ProgressOfStudents.frmAbout.resources

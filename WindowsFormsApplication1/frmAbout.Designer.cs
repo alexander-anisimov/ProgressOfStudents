@@ -1,6 +1,6 @@
-﻿namespace WindowsFormsApplication1
+﻿namespace ProgressOfStudents
 {
-	partial class frmMain
+	partial class frmAbout
 	{
 		/// <summary>
 		/// Required designer variable.
@@ -28,34 +28,34 @@
 		/// </summary>
 		private void InitializeComponent()
 		{
-			this.btn_about = new System.Windows.Forms.Button();
+			this.lblAuthorInfo = new System.Windows.Forms.Label();
 			this.SuspendLayout();
 			// 
-			// btn_about
+			// lblAuthorInfo
 			// 
-			this.btn_about.Location = new System.Drawing.Point(138, 523);
-			this.btn_about.Name = "btn_about";
-			this.btn_about.Size = new System.Drawing.Size(109, 27);
-			this.btn_about.TabIndex = 0;
-			this.btn_about.Text = "About App";
-			this.btn_about.UseVisualStyleBackColor = true;
-			this.btn_about.Click += new System.EventHandler(this.btn_about_Click);
+			this.lblAuthorInfo.AutoSize = true;
+			this.lblAuthorInfo.Location = new System.Drawing.Point(40, 9);
+			this.lblAuthorInfo.Name = "lblAuthorInfo";
+			this.lblAuthorInfo.Size = new System.Drawing.Size(305, 13);
+			this.lblAuthorInfo.TabIndex = 0;
+			this.lblAuthorInfo.Text = "This is my first Windows Form Application with Database logic :)";
+			this.lblAuthorInfo.Click += new System.EventHandler(this.lblAuthorInfo_Click);
 			// 
-			// frmMain
+			// frmAbout
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.ClientSize = new System.Drawing.Size(384, 562);
-			this.Controls.Add(this.btn_about);
-			this.Name = "frmMain";
-			this.Text = "Main";
+			this.Controls.Add(this.lblAuthorInfo);
+			this.Name = "frmAbout";
+			this.Text = "About";
 			this.ResumeLayout(false);
+			this.PerformLayout();
 
 		}
 
 		#endregion
 
-		private System.Windows.Forms.Button btn_about;
+		private System.Windows.Forms.Label lblAuthorInfo;
 	}
 }
-
