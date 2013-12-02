@@ -1,0 +1,6 @@
+c:\users\asd24\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ProgressOfStudentsForm.exe
+c:\users\asd24\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ProgressOfStudentsForm.pdb
+c:\users\asd24\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProgressOfStudents.Properties.Resources.resources
+c:\users\asd24\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\asd24\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProgressOfStudentsForm.exe
+c:\users\asd24\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ProgressOfStudentsForm.pdb
