@@ -129,7 +129,6 @@
     <Build Include="dbo\Programmability\Stored Procedures\subjects_without_exam_get.sql" />
     <Build Include="dbo\Programmability\Stored Procedures\students_who_pass_all_emax_get.sql" />
     <Build Include="dbo\Programmability\Stored Procedures\students_who_not_pass_emax_get.sql" />
-    <Build Include="dbo\Programmability\Stored Procedures\subjects_who_have_max_exams.sql" />
     <None Include="Scripts\Post-deploy\Exam.sql">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
@@ -139,5 +138,9 @@
     <None Include="Scripts\Post-deploy\Student.sql">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <Build Include="dbo\Programmability\Stored Procedures\students_count_with_positive_marks_get.sql" />
+    <Build Include="dbo\Programmability\Stored Procedures\subjects_who_have_max_negative_marks_get.sql" />
+    <Build Include="dbo\Programmability\Stored Procedures\subjects_who_have_max_exams_get.sql" />
+    <Build Include="dbo\Programmability\Stored Procedures\students_addresses_who_have_positive_marks_get.sql" />
   </ItemGroup>
 </Project>
