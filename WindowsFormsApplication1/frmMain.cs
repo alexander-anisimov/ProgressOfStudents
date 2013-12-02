@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace WindowsFormsApplication1
+namespace ProgressOfStudents
 {
 	public partial class frmMain : Form
 	{
@@ -18,8 +18,7 @@ namespace WindowsFormsApplication1
 
 		private void btn_about_Click(object sender, EventArgs e)
 		{
-			//frmMain f = new frmMain();		// создаем
-			Form f = new Form();
+			frmAbout f = new frmAbout();		// создаем
 			f.ShowDialog();					// показываем
 			f.Show();							// или так
 		}
